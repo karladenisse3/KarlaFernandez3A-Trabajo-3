@@ -1,0 +1,6 @@
+C:\Users\CompuStoreManta\Desktop\KarlaFernandez3A\KarlaFernandez3A\bin\Debug\KarlaFernandez3A.exe.config
+C:\Users\CompuStoreManta\Desktop\KarlaFernandez3A\KarlaFernandez3A\bin\Debug\KarlaFernandez3A.exe
+C:\Users\CompuStoreManta\Desktop\KarlaFernandez3A\KarlaFernandez3A\bin\Debug\KarlaFernandez3A.pdb
+C:\Users\CompuStoreManta\Desktop\KarlaFernandez3A\KarlaFernandez3A\obj\Debug\KarlaFernandez3A.csprojAssemblyReference.cache
+C:\Users\CompuStoreManta\Desktop\KarlaFernandez3A\KarlaFernandez3A\obj\Debug\KarlaFernandez3A.exe
+C:\Users\CompuStoreManta\Desktop\KarlaFernandez3A\KarlaFernandez3A\obj\Debug\KarlaFernandez3A.pdb
