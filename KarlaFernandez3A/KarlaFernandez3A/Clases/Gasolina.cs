@@ -24,8 +24,6 @@ namespace KarlaFernandez3A.Clases
             set { cantidadDeGalones = value; }
         }
 
-        private double precioDeVenta;
-
         public double PrecioDeVenta
         {
             get 
@@ -42,21 +40,15 @@ namespace KarlaFernandez3A.Clases
             }
         }
 
-        private double subtotal;
-
         public double Subtotal
         {
             get { return CantidadDeGalones*PrecioDeVenta; }
         }
 
-        private double iva;
-
         public double Iva
         {
             get { return Subtotal*0.12; }
         }
-
-        private double total;
 
         public double Total
         {
